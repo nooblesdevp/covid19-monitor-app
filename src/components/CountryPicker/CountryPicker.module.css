@@ -1,0 +1,16 @@
+.fromControl{
+    width: 30% !important;
+    margin-bottom: 30px !important;
+}
+
+@media (max-width:770px){
+    .fromControl{
+        width: 50% !important;
+    }
+}
+
+@media (max-width:425px){
+    .fromControl{
+        width: 100% !important;
+    }
+}
